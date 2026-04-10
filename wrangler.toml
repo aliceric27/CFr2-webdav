@@ -8,5 +8,5 @@ PASSWORD = "$PASSWORD"
 BUCKET_NAME = "$BUCKET_NAME"
 
 [[r2_buckets]]
-binding = "r2-webdav"
+binding = "r2-webdev"
 bucket_name = "$BUCKET_NAME"
